@@ -1,2 +1,27 @@
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
+fatal: detected dubious ownership in repository at '/home/kuo/Desktop/MTK'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/kuo/Desktop/MTK
+fatal: detected dubious ownership in repository at '/home/kuo/Desktop/MTK'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/kuo/Desktop/MTK
+../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c: In function 'main':
+../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:541:74: warning: passing argument 2 of 'wifi_connection_register_event_handler' from incompatible pointer type [-Wincompatible-pointer-types]
+  541 |     wifi_connection_register_event_handler(WIFI_EVENT_IOT_INIT_COMPLETE, user_wifi_init_callback);
+      |                                                                          ^~~~~~~~~~~~~~~~~~~~~~~
+      |                                                                          |
+      |                                                                          void (*)(void)
+In file included from ../../../../../prebuilt/middleware/MTK/minisupp/inc/src/drivers/driver.h:30,
+                 from ../../../../../prebuilt/middleware/MTK/connectivity/wlan/os/freertos/include/gl_upperlayer.h:74,
+                 from ../../../../../prebuilt/middleware/MTK/connectivity/wlan/os/freertos/include/gl_os.h:73,
+                 from ../../../../../prebuilt/middleware/MTK/connectivity/wlan/os/freertos/include/gl_init.h:6,
+                 from ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:65:
+../../../../../prebuilt/middleware/MTK/connectivity/wlan/os/freertos/include/wifi_api_ex.h:4597:34: note: expected 'wifi_event_handler_t' {aka 'long int (*)(wifi_event_t,  unsigned char *, long unsigned int)'} but argument is of type 'void (*)(void)'
+ 4597 |             wifi_event_handler_t handler);
+      |             ~~~~~~~~~~~~~~~~~~~~~^~~~~~~
+At top level:
+../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:388:12: warning: 'auto_connect_wifi_task_create' defined but not used [-Wunused-function]
+  388 | static int auto_connect_wifi_task_create(void)
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../../../../../tools/gcc/linux/gcc-arm-none-eabi/bin/arm-none-eabi-objcopy -O binary /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/mt7933cv_xip_bga_al.elf /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/mt7933cv_xip_bga_al.bin

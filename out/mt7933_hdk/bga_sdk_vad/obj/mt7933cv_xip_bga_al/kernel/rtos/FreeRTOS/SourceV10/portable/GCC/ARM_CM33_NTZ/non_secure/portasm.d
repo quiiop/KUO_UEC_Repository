@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.d: \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c \
  ../../../../../driver/CMSIS/Device/MTK/mt7933/Include/memory_attribute.h \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.h \

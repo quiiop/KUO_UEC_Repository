@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/test/va_golden_tone.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/test/va_golden_tone.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/test/va_golden_tone.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/test/va_golden_tone.d: \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/test/va_golden_tone.c \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/test/va_golden_tone.h \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/test/audio_test_utils.h \

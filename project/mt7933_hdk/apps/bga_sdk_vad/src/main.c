@@ -237,6 +237,18 @@ int32_t wifi_aia_connection_handler(wifi_event_t event,
     return 0;
 }
 #endif
+static bool g_wifi_init_ready = false; 
+
+static void user_wifi_init_callback(void) { g_wifi_init_ready = true; }
+
+static void user_wifi_init_qurey_status(void){
+    while(g_wifi_init_ready == false) {
+        printf("[KUO] waiting wifi init ...\n");
+        vTaskDelay(20);
+    }
+}
+
+#define AUTO_CONNECT_WIFI
 
 void wifi_auto_init_task(void *para)
 {
@@ -307,6 +319,21 @@ void wifi_auto_init_task(void *para)
 #endif
     wifi_connection_scan_init(g_ap_list, MTK_SCAN_LIST_SIZE);
 
+#ifdef AUTO_CONNECT_WIFI
+    user_wifi_init_qurey_status();
+    /*Call APIs to connect only after Wi-Fi is initialized. open mode*/
+    // uint8_t SSID = "iPhone";
+    // uint8_t PASSWORD = "0966530192";
+    wifi_config_set_opmode(WIFI_MODE_STA_ONLY);
+    wifi_config_set_ssid(WIFI_PORT_STA, (uint8_t *)"iPhone", kalStrLen("iPhone"));
+    wifi_config_set_security_mode(WIFI_PORT_STA, 
+                                    WIFI_AUTH_MODE_WPA2_PSK,
+                                    WIFI_ENCRYPT_TYPE_AES_ENABLED);
+    wifi_config_set_wpa_psk_key(WIFI_PORT_STA, (uint8_t *)"0966530192", kalStrLen("0966530192"));
+    wifi_config_reload_setting(); //reload setting, then auto scanning to connect to AP
+    printf("[KUO] wifi reload over\n");
+#endif
+
     struct netif *sta_if = netif_find("st1");
     while (sta_if != NULL) {
         if ((pdTRUE == lwip_net_ready()) && (iot_IsIpReady(sta_if))) {
@@ -332,6 +359,50 @@ int wifi_task_create(void)
 
     return 0;
 }
+
+// #define AUTO_WIFI_CONNECT 
+/*[KUO] auto_connect_wifi*/
+
+static void auto_connect_wifi(void *para)
+{
+    printf("[KUO] auto_connect_wifi\n");
+
+#ifdef AUTO_WIFI_CONNECT 
+    /*初始化wifi*/
+    wifi_config_t config = {0};
+    config.opmode = WIFI_MODE_STA_ONLY;
+    wifi_init(&config, NULL);
+    user_wifi_init_qurey_status(); /*等待wifi初始化完成*/
+
+    /*Call APIs to connect only after Wi-Fi is initialized. open mode*/
+    wifi_config_set_opmode(WIFI_MODE_STA_ONLY);
+    wifi_config_set_ssid(WIFI_PORT_STA, (uint8_t *)"iPhone", kalStrLen("iPhone"));
+    wifi_config_set_security_mode(WIFI_PORT_STA, 
+                                    WIFI_AUTH_MODE_WPA2_PSK,
+                                    WIFI_ENCRYPT_TYPE_AES_ENABLED);
+    wifi_config_set_wpa_psk_key(WIFI_PORT_STA, (uint8_t *)"0966530192", kalStrLen("0966530192"));
+    wifi_config_reload_setting(); //reload setting, then auto scanning to connect to AP
+    printf("[KUO] wifi reload over\n");
+#endif
+}
+
+static int auto_connect_wifi_task_create(void)
+{
+    printf("[KUO] auto_connect_wifi_task_create\n");
+
+    if (xTaskCreate(auto_connect_wifi,
+                    auto_connect_wifi_TASK_NAME,
+                    auto_connect_wifi_TASK_STACKSIZE / sizeof(portSTACK_TYPE),
+                    NULL,
+                    auto_connect_wifi_TASK_PRIO,
+                    NULL) != pdPASS){
+        LOG_E(common, "xTaskCreate fail");
+        return -1;
+    }
+
+    return 0;
+}
+
 #ifdef MTK_MT7933_AUDIO_DRIVER_ENABLE
 void audio_init_task(void *pvParameters)
 {
@@ -466,7 +537,12 @@ int main(void)
     bt_app_common_init();
 #endif /* #ifdef MTK_BT_ENABLE */
 
+    /*[KUO] auto_wifi_connect*/
+    printf("[KUO] register call back func, if wifi init complete, trigger call back func\n");
+    wifi_connection_register_event_handler(WIFI_EVENT_IOT_INIT_COMPLETE, user_wifi_init_callback);
     wifi_task_create();
+    //auto_connect_wifi_task_create();
+    
     vTaskStartScheduler();
 
     /* If all is well, the scheduler will now be running, and the following line

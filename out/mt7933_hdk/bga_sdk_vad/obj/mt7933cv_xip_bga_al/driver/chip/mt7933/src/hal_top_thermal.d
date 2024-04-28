@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_top_thermal.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_top_thermal.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_top_thermal.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_top_thermal.d: \
  ../../../../../driver/chip/mt7933/src/hal_top_thermal.c \
  ../../../../../driver/chip/mt7933/inc/common.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/pwm/mhal_pwm.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/pwm/mhal_pwm.d: ../../../../../driver/chip/mt7933/src/pwm/mhal_pwm.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/pwm/mhal_pwm.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/pwm/mhal_pwm.d: ../../../../../driver/chip/mt7933/src/pwm/mhal_pwm.c \
  ../../../../../driver/chip/mt7933/src/pwm/hdl_pwm.h \
  ../../../../../driver/chip/mt7933/src/common/inc/mhal_osai.h \
  ../../../../../driver/chip/mt7933/inc/hal_log.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/wifi_api.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/wifi_api.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/wifi_api.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/wifi_api.d: \
  ../../../../../middleware/MTK/connectivity/wlan/os/freertos/wifi_api.c \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/include/precomp.h \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/include/hif_cmm.h \

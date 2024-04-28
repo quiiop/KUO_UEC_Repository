@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_i2c_master.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_i2c_master.d: ../../../../../driver/chip/mt7933/src/hal_i2c_master.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_i2c_master.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_i2c_master.d: ../../../../../driver/chip/mt7933/src/hal_i2c_master.c \
  ../../../../../driver/CMSIS/Device/MTK/mt7933/Include/mt7933.h \
  ../../../../../driver/CMSIS/Include/core_cm33.h \
  ../../../../../driver/CMSIS/Include/cmsis_version.h \

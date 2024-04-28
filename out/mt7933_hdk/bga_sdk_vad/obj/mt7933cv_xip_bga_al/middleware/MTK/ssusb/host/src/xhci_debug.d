@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/xhci_debug.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/xhci_debug.d: ../../../../../middleware/MTK/ssusb/host/src/xhci_debug.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/xhci_debug.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/xhci_debug.d: ../../../../../middleware/MTK/ssusb/host/src/xhci_debug.c \
  ../../../../../middleware/MTK/minicli/inc/cli.h \
  ../../../../../middleware/MTK/minicli/inc/putter.h \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \

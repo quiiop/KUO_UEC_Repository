@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/netif/wifi_netif.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/netif/wifi_netif.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/netif/wifi_netif.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/netif/wifi_netif.d: \
  ../../../../../middleware/MTK/connectivity/wlan/os/freertos/netif/wifi_netif.c \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/os/freertos/include/wifi_netif.h \
  ../../../../../middleware/third_party/lwip/src/include/lwip/netif.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan_tool/wifi_test_tool/wifitesttool/libwifitest.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan_tool/wifi_test_tool/wifitesttool/libwifitest.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan_tool/wifi_test_tool/wifitesttool/libwifitest.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan_tool/wifi_test_tool/wifitesttool/libwifitest.d: \
  ../../../../../middleware/MTK/connectivity/wlan_tool/wifi_test_tool/wifitesttool/libwifitest.c \
  ../../../../../middleware/MTK/connectivity/wlan_tool/wifi_test_tool/wifitesttool/libwifitest.h \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \

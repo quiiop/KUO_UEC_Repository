@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-afe-pcm.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-afe-pcm.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-afe-pcm.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-afe-pcm.d: \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-afe-pcm.c \
  ../../../../../middleware/MTK/audio_services/sound/driver/include/soc.h \
  ../../../../../middleware/MTK/audio_services/sound/driver/include/core.h \

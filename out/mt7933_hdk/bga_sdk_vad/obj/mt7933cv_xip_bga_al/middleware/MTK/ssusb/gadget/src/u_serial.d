@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/gadget/src/u_serial.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/gadget/src/u_serial.d: ../../../../../middleware/MTK/ssusb/gadget/src/u_serial.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/gadget/src/u_serial.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/gadget/src/u_serial.d: ../../../../../middleware/MTK/ssusb/gadget/src/u_serial.c \
  ../../../../../middleware/MTK/ssusb/inc/system_rscs.h \
  ../../../../../driver/chip/mt7933/inc/driver_api.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

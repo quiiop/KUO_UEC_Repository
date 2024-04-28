@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/hw_resource_assignment/src/hal_resource_assignment.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/hw_resource_assignment/src/hal_resource_assignment.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/hw_resource_assignment/src/hal_resource_assignment.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/hw_resource_assignment/src/hal_resource_assignment.d: \
  ../../../../../driver/board/mt7933_hdk/hw_resource_assignment/src/hal_resource_assignment.c \
  ../../../../../driver/chip/mt7933/inc/hal_core_status.h \
  ../../../../../driver/chip/mt7933/inc/hal_platform.h \

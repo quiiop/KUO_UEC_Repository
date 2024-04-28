@@ -158,6 +158,11 @@ typedef enum {
 #define MAX_N9LOG_SIZE                  (1024)
 #define N9LOG_TASK_PRIO                 TASK_PRIORITY_LOW
 
+/*[KUO] auto connect wifi*/
+#define auto_connect_wifi_TASK_NAME         "auto_connect_wifi"
+#define auto_connect_wifi_TASK_STACKSIZE    (8192)
+#define auto_connect_wifi_TASK_PRIO         TASK_PRIORITY_NORMAL
+
 /* ATCI task definition */
 #define ATCI_TASK_NAME              "ATCI"
 #ifdef MTK_AUDIO_TUNING_ENABLED

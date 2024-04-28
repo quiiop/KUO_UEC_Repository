@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_cache_internal.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_cache_internal.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_cache_internal.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_cache_internal.d: \
  ../../../../../driver/chip/mt7933/src/hal_cache_internal.c \
  ../../../../../driver/chip/inc/hal_cache.h \
  ../../../../../driver/chip/mt7933/inc/hal_platform.h \

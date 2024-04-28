@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/timers.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/timers.d: ../../../../../kernel/rtos/FreeRTOS/SourceV10/timers.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/timers.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/timers.d: ../../../../../kernel/rtos/FreeRTOS/SourceV10/timers.c \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \
  ../inc/FreeRTOSConfig.h ../../../../../driver/chip/mt7933/inc/common.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/audio_ipi/audio_ipi_driver.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/audio_ipi/audio_ipi_driver.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/audio_ipi/audio_ipi_driver.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/audio_ipi/audio_ipi_driver.d: \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/mt7933/audio_ipi/audio_ipi_driver.c \
  ../../../../../middleware/MTK/hifi4dsp/hifi4dsp_ipi/inc/adsp_ipi_queue.h \
  ../../../../../middleware/MTK/hifi4dsp/hifi4dsp_ipi/inc/adsp_ipi.h \

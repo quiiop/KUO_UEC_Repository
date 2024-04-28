@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/flash_addr.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/flash_addr.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/flash_addr.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/flash_addr.d: \
  ../../../../../middleware/MTK/connectivity/wlan/flash_addr.c \
  ../inc/memory_map.h ../../../../../kernel/service/inc/syslog.h \
  ../../../../../driver/chip/inc/hal_uart.h \

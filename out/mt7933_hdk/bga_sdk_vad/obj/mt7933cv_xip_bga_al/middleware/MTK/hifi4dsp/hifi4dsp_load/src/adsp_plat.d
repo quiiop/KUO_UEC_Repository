@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/hifi4dsp/hifi4dsp_load/src/adsp_plat.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/hifi4dsp/hifi4dsp_load/src/adsp_plat.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/hifi4dsp/hifi4dsp_load/src/adsp_plat.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/hifi4dsp/hifi4dsp_load/src/adsp_plat.d: \
  ../../../../../middleware/MTK/hifi4dsp/hifi4dsp_load/src/adsp_plat.c \
  ../../../../../middleware/MTK/hifi4dsp/hifi4dsp_load/inc/adsp_helper.h \
  ../../../../../middleware/MTK/hifi4dsp/hifi4dsp_load/inc/adsp_reg.h \

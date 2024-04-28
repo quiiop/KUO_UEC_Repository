@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/mgmt/reg_rule.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/mgmt/reg_rule.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/mgmt/reg_rule.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/mgmt/reg_rule.d: \
  ../../../../../middleware/MTK/connectivity/wlan/mgmt/reg_rule.c \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/include/precomp.h \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/include/hif_cmm.h \

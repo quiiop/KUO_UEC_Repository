@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/filogic_led.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/filogic_led.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/filogic_led.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/filogic_led.d: \
  ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/filogic_led.c \
  ../../../../../driver/chip/inc/hal.h ../inc/hal_feature_config.h \
  ../../../../../driver/chip/mt7933/inc/hal_log.h \

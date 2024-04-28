@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/psramc_pi_main.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/psramc_pi_main.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/psramc_pi_main.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/psramc_pi_main.d: \
  ../../../../../driver/chip/mt7933/src/psramc/psramc_pi_main.c \
  ../../../../../driver/chip/mt7933/src/psramc/inc/dramc_pi_api.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/thermal_cli.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/thermal_cli.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/thermal_cli.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/thermal_cli.d: \
  ../../../../../driver/board/mt7933_hdk/util/src/thermal_cli.c \
  ../../../../../kernel/service/inc/toi.h \
  ../../../../../driver/chip/mt7933/inc/hal_spm.h \

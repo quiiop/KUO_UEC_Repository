@@ -12,6 +12,7 @@
         "shared_mutex": "c",
         "*.def": "c",
         "hal.h": "c",
-        "ci.h": "c"
+        "ci.h": "c",
+        "ranges": "c"
     }
 }

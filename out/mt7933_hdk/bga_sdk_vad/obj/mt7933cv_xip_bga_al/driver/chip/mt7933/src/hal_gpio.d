@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_gpio.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_gpio.d: ../../../../../driver/chip/mt7933/src/hal_gpio.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_gpio.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_gpio.d: ../../../../../driver/chip/mt7933/src/hal_gpio.c \
  ../../../../../driver/chip/mt7933/inc/common.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \
  ../../../../../driver/chip/mt7933/inc/driver_api.h \

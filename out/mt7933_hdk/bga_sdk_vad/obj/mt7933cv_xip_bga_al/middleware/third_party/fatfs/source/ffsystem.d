@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/ffsystem.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/ffsystem.d: ../../../../../middleware/third_party/fatfs/source/ffsystem.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/ffsystem.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/ffsystem.d: ../../../../../middleware/third_party/fatfs/source/ffsystem.c \
  ../../../../../middleware/third_party/fatfs/source/ff.h \
  ../../../../../middleware/third_party/fatfs/source/ffconf.h \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \

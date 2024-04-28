@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbuvc_video.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbuvc_video.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbuvc_video.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbuvc_video.d: \
  ../../../../../middleware/MTK/ssusb/host/src/usbuvc_video.c \
  ../../../../../middleware/MTK/ssusb/host/inc/usb.h \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \

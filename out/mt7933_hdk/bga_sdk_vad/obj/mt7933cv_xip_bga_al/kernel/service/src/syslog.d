@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog.d: ../../../../../kernel/service/src/syslog.c \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog.d: ../../../../../kernel/service/src/syslog.c \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \
  ../inc/FreeRTOSConfig.h ../../../../../driver/chip/mt7933/inc/common.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

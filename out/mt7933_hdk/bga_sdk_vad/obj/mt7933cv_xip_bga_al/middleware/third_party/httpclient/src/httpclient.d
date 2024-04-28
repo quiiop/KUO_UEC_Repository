@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/httpclient/src/httpclient.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/httpclient/src/httpclient.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/httpclient/src/httpclient.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/httpclient/src/httpclient.d: \
  ../../../../../middleware/third_party/httpclient/src/httpclient.c \
  ../../../../../middleware/third_party/httpclient/inc/httpclient.h \
  ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h \

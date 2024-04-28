@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/system_daemon/src/system_daemon.o /home/kuo/Desktop/MT793x_SDK_v3_1_0/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/system_daemon/src/system_daemon.d: \
+/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/system_daemon/src/system_daemon.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/system_daemon/src/system_daemon.d: \
  ../../../../../kernel/service/system_daemon/src/system_daemon.c \
  ../../../../../kernel/service/system_daemon/inc/system_daemon.h \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \
