@@ -248,8 +248,6 @@ static void user_wifi_init_qurey_status(void){
     }
 }
 
-#define AUTO_CONNECT_WIFI
-
 void wifi_auto_init_task(void *para)
 {
 
@@ -322,14 +320,14 @@ void wifi_auto_init_task(void *para)
 #ifdef AUTO_CONNECT_WIFI
     user_wifi_init_qurey_status();
     /*Call APIs to connect only after Wi-Fi is initialized. open mode*/
-    // uint8_t SSID = "iPhone";
-    // uint8_t PASSWORD = "0966530192";
+    // uint8_t SSID = "UECAP";
+    // uint8_t PASSWORD = "50897282";
     wifi_config_set_opmode(WIFI_MODE_STA_ONLY);
-    wifi_config_set_ssid(WIFI_PORT_STA, (uint8_t *)"iPhone", kalStrLen("iPhone"));
+    wifi_config_set_ssid(WIFI_PORT_STA, (uint8_t *)"UECAP", kalStrLen("UECAP"));
     wifi_config_set_security_mode(WIFI_PORT_STA, 
                                     WIFI_AUTH_MODE_WPA2_PSK,
                                     WIFI_ENCRYPT_TYPE_AES_ENABLED);
-    wifi_config_set_wpa_psk_key(WIFI_PORT_STA, (uint8_t *)"0966530192", kalStrLen("0966530192"));
+    wifi_config_set_wpa_psk_key(WIFI_PORT_STA, (uint8_t *)"50897282", kalStrLen("50897282"));
     wifi_config_reload_setting(); //reload setting, then auto scanning to connect to AP
     printf("[KUO] wifi reload over\n");
 #endif
@@ -360,29 +358,13 @@ int wifi_task_create(void)
     return 0;
 }
 
-// #define AUTO_WIFI_CONNECT 
 /*[KUO] auto_connect_wifi*/
-
 static void auto_connect_wifi(void *para)
 {
     printf("[KUO] auto_connect_wifi\n");
-
 #ifdef AUTO_WIFI_CONNECT 
     /*初始化wifi*/
-    wifi_config_t config = {0};
-    config.opmode = WIFI_MODE_STA_ONLY;
-    wifi_init(&config, NULL);
-    user_wifi_init_qurey_status(); /*等待wifi初始化完成*/
-
-    /*Call APIs to connect only after Wi-Fi is initialized. open mode*/
-    wifi_config_set_opmode(WIFI_MODE_STA_ONLY);
-    wifi_config_set_ssid(WIFI_PORT_STA, (uint8_t *)"iPhone", kalStrLen("iPhone"));
-    wifi_config_set_security_mode(WIFI_PORT_STA, 
-                                    WIFI_AUTH_MODE_WPA2_PSK,
-                                    WIFI_ENCRYPT_TYPE_AES_ENABLED);
-    wifi_config_set_wpa_psk_key(WIFI_PORT_STA, (uint8_t *)"0966530192", kalStrLen("0966530192"));
-    wifi_config_reload_setting(); //reload setting, then auto scanning to connect to AP
-    printf("[KUO] wifi reload over\n");
+    // wifi_auto_init_task(NULL);
 #endif
 }
 
@@ -391,15 +373,38 @@ static int auto_connect_wifi_task_create(void)
     printf("[KUO] auto_connect_wifi_task_create\n");
 
     if (xTaskCreate(auto_connect_wifi,
-                    auto_connect_wifi_TASK_NAME,
-                    auto_connect_wifi_TASK_STACKSIZE / sizeof(portSTACK_TYPE),
+                    wifi_auto_init_TASK_NAME,
+                    wifi_auto_init_TASK_STACKSIZE / sizeof(portSTACK_TYPE),
                     NULL,
-                    auto_connect_wifi_TASK_PRIO,
-                    NULL) != pdPASS){
+                    wifi_auto_init_TASK_PRIO,
+                    NULL) != pdPASS) {
         LOG_E(common, "xTaskCreate fail");
         return -1;
     }
 
+    return 0;
+}
+
+static void small_test(void)
+{
+    while (1){
+        printf("hello small test\n");
+        vTaskDelay(10000/portTICK_RATE_MS); // 10s
+    }
+}
+
+static int small_test_task_create(void)
+{
+    printf("[KUO] small_test_task_create\n");
+    if (xTaskCreate(wifi_auto_init_task,
+                    small_test_TASK_NAME,
+                    small_test_TASK_STACKSIZE/ sizeof(portSTACK_TYPE),
+                    NULL,
+                    small_test_TASK_PRIO,
+                    NULL) != pdPASS) {
+        LOG_E(common, "xTaskCreate fail");
+        return -1;
+    }
     return 0;
 }
 
@@ -537,12 +542,23 @@ int main(void)
     bt_app_common_init();
 #endif /* #ifdef MTK_BT_ENABLE */
 
+#ifdef Just_small_test
+    printf("[KUO] Small Test start !!\n");
+    small_test_task_create();
+#endif
+
     /*[KUO] auto_wifi_connect*/
     printf("[KUO] register call back func, if wifi init complete, trigger call back func\n");
     wifi_connection_register_event_handler(WIFI_EVENT_IOT_INIT_COMPLETE, user_wifi_init_callback);
-    wifi_task_create();
-    //auto_connect_wifi_task_create();
+#ifdef USE_AUTO_CONNECT_WIFI_TASK
+    printf("[KUO] auto connect wifi task create !!\n");
+    auto_connect_wifi_task_create();
+#else
+    printf("[KUO] wifi task create !!\n");
+    // wifi_task_create();
+#endif
     
+
     vTaskStartScheduler();
 
     /* If all is well, the scheduler will now be running, and the following line

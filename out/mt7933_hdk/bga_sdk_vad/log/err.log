@@ -1,14 +1,14 @@
-fatal: detected dubious ownership in repository at '/home/kuo/Desktop/MTK'
+fatal: detected dubious ownership in repository at '/home/jameskuo/Desktop/KUO_UEC_Repository'
 To add an exception for this directory, call:
 
-	git config --global --add safe.directory /home/kuo/Desktop/MTK
-fatal: detected dubious ownership in repository at '/home/kuo/Desktop/MTK'
+	git config --global --add safe.directory /home/jameskuo/Desktop/KUO_UEC_Repository
+fatal: detected dubious ownership in repository at '/home/jameskuo/Desktop/KUO_UEC_Repository'
 To add an exception for this directory, call:
 
-	git config --global --add safe.directory /home/kuo/Desktop/MTK
+	git config --global --add safe.directory /home/jameskuo/Desktop/KUO_UEC_Repository
 ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c: In function 'main':
-../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:541:74: warning: passing argument 2 of 'wifi_connection_register_event_handler' from incompatible pointer type [-Wincompatible-pointer-types]
-  541 |     wifi_connection_register_event_handler(WIFI_EVENT_IOT_INIT_COMPLETE, user_wifi_init_callback);
+../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:552:74: warning: passing argument 2 of 'wifi_connection_register_event_handler' from incompatible pointer type [-Wincompatible-pointer-types]
+  552 |     wifi_connection_register_event_handler(WIFI_EVENT_IOT_INIT_COMPLETE, user_wifi_init_callback);
       |                                                                          ^~~~~~~~~~~~~~~~~~~~~~~
       |                                                                          |
       |                                                                          void (*)(void)
@@ -21,7 +21,10 @@ In file included from ../../../../../prebuilt/middleware/MTK/minisupp/inc/src/dr
  4597 |             wifi_event_handler_t handler);
       |             ~~~~~~~~~~~~~~~~~~~~~^~~~~~~
 At top level:
-../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:388:12: warning: 'auto_connect_wifi_task_create' defined but not used [-Wunused-function]
-  388 | static int auto_connect_wifi_task_create(void)
+../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:388:13: warning: 'small_test' defined but not used [-Wunused-function]
+  388 | static void small_test(void)
+      |             ^~~~~~~~~~
+../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c:371:12: warning: 'auto_connect_wifi_task_create' defined but not used [-Wunused-function]
+  371 | static int auto_connect_wifi_task_create(void)
       |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-../../../../../tools/gcc/linux/gcc-arm-none-eabi/bin/arm-none-eabi-objcopy -O binary /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/mt7933cv_xip_bga_al.elf /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/mt7933cv_xip_bga_al.bin
+../../../../../tools/gcc/linux/gcc-arm-none-eabi/bin/arm-none-eabi-objcopy -O binary /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/mt7933cv_xip_bga_al.elf /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/mt7933cv_xip_bga_al.bin

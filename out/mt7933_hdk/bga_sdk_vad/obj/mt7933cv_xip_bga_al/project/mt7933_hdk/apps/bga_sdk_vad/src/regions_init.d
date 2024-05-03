@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/regions_init.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/regions_init.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/regions_init.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/regions_init.d: \
  ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/regions_init.c \
  ../../../../../kernel/service/inc/exception_handler.h \
  ../../../../../driver/CMSIS/Device/MTK/mt7933/Include/mt7933.h \

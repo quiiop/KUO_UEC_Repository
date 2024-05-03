@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/api/api_lib.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/api/api_lib.d: ../../../../../middleware/third_party/lwip/src/api/api_lib.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/api/api_lib.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/api/api_lib.d: ../../../../../middleware/third_party/lwip/src/api/api_lib.c \
  ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h \
  ../inc/lwipopts.h ../inc/FreeRTOSConfig.h \
  ../../../../../driver/chip/mt7933/inc/common.h \

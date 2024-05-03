@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/gl_kal.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/gl_kal.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/gl_kal.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/os/freertos/gl_kal.d: \
  ../../../../../middleware/MTK/connectivity/wlan/os/freertos/gl_kal.c \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/os/freertos/include/gl_os.h \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/include/connsys_wifi_queue.h \

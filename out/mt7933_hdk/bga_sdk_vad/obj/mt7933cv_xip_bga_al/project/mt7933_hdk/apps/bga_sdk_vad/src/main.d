@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/main.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/main.d: ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/main.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/main.d: ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/main.c \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \
  ../inc/FreeRTOSConfig.h ../../../../../driver/chip/mt7933/inc/common.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

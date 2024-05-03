@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_pmu_wrap_interface.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_pmu_wrap_interface.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_pmu_wrap_interface.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_pmu_wrap_interface.d: \
  ../../../../../driver/chip/mt7933/src/hal_pmu_wrap_interface.c \
  ../../../../../driver/chip/inc/hal_pmu.h \
  ../../../../../driver/CMSIS/Device/MTK/mt7933/Include/reg_base.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/ept/src/bsp_gpio_ept_config.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/ept/src/bsp_gpio_ept_config.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/ept/src/bsp_gpio_ept_config.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/ept/src/bsp_gpio_ept_config.d: \
  ../../../../../driver/board/mt7933_hdk/ept/src/bsp_gpio_ept_config.c \
  ../../../../../driver/board/mt7933_hdk/ept/inc/bsp_gpio_ept_config.h \
  ../../../../../driver/CMSIS/Device/MTK/mt7933/Include/mt7933.h \

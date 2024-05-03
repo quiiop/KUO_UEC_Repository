@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connsys/src/mt7933_connsys_dbg.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connsys/src/mt7933_connsys_dbg.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connsys/src/mt7933_connsys_dbg.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connsys/src/mt7933_connsys_dbg.d: \
  ../../../../../middleware/MTK/connsys/src/mt7933_connsys_dbg.c \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \
  ../inc/FreeRTOSConfig.h ../../../../../driver/chip/mt7933/inc/common.h \

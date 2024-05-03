@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/pemi.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/pemi.d: ../../../../../driver/chip/mt7933/src/psramc/pemi.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/pemi.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/pemi.d: ../../../../../driver/chip/mt7933/src/psramc/pemi.c \
  ../../../../../driver/chip/mt7933/src/psramc/inc/dramc_common.h \
  ../../../../../driver/chip/mt7933/src/psramc/inc/PSRAMC.h \
  ../../../../../driver/chip/mt7933/src/psramc/inc/dramc_register.h \

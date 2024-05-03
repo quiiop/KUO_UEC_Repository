@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/phy/src/usb_phy.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/phy/src/usb_phy.d: ../../../../../middleware/MTK/ssusb/phy/src/usb_phy.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/phy/src/usb_phy.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/phy/src/usb_phy.d: ../../../../../middleware/MTK/ssusb/phy/src/usb_phy.c \
  ../../../../../driver/chip/inc/hal_gpt.h \
  ../../../../../driver/chip/mt7933/inc/hal_platform.h \
  ../../../../../driver/chip/inc/hal_define.h ../inc/hal_feature_config.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/core/ipv4/autoip.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/core/ipv4/autoip.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/core/ipv4/autoip.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/lwip/src/core/ipv4/autoip.d: \
  ../../../../../middleware/third_party/lwip/src/core/ipv4/autoip.c \
  ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h \
  ../inc/lwipopts.h ../inc/FreeRTOSConfig.h \

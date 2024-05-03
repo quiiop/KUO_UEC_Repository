@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/portable/mt7933/src/diskio_usb.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/portable/mt7933/src/diskio_usb.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/portable/mt7933/src/diskio_usb.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/third_party/fatfs/source/portable/mt7933/src/diskio_usb.d: \
  ../../../../../middleware/third_party/fatfs/source/portable/mt7933/src/diskio_usb.c \
  ../../../../../middleware/third_party/fatfs/source/ffconf.h \
  ../../../../../middleware/third_party/fatfs/source/diskio.h \

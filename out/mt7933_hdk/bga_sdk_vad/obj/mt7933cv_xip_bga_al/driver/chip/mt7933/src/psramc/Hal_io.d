@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/Hal_io.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/Hal_io.d: ../../../../../driver/chip/mt7933/src/psramc/Hal_io.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/Hal_io.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/psramc/Hal_io.d: ../../../../../driver/chip/mt7933/src/psramc/Hal_io.c \
  ../../../../../driver/chip/mt7933/src/psramc/inc/x_hal_io.h \
  ../../../../../driver/chip/mt7933/src/psramc/inc/dramc_pi_api.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

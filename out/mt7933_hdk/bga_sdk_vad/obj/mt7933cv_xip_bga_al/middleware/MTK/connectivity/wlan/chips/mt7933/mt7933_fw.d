@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/chips/mt7933/mt7933_fw.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/chips/mt7933/mt7933_fw.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/chips/mt7933/mt7933_fw.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/connectivity/wlan/chips/mt7933/mt7933_fw.d: \
  ../../../../../middleware/MTK/connectivity/wlan/chips/mt7933/mt7933_fw.c \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/include/precomp.h \
  ../../../../../prebuilt/middleware/MTK/connectivity/wlan/include/hif_cmm.h \

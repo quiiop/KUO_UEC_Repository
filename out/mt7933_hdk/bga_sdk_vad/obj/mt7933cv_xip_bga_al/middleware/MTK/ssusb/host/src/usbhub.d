@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbhub.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbhub.d: ../../../../../middleware/MTK/ssusb/host/src/usbhub.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbhub.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/ssusb/host/src/usbhub.d: ../../../../../middleware/MTK/ssusb/host/src/usbhub.c \
  ../../../../../middleware/MTK/ssusb/host/inc/generic_hub.h \
  ../../../../../middleware/MTK/ssusb/host/inc/usb.h \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \

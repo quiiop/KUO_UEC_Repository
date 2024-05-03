@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_sys.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_sys.d: ../../../../../driver/chip/mt7933/src/hal_sys.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_sys.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/chip/mt7933/src/hal_sys.d: ../../../../../driver/chip/mt7933/src/hal_sys.c \
  ../../../../../driver/chip/mt7933/inc/hal_sys.h \
  ../../../../../driver/chip/inc/hal_wdt.h \
  ../../../../../driver/chip/mt7933/inc/hal_platform.h \

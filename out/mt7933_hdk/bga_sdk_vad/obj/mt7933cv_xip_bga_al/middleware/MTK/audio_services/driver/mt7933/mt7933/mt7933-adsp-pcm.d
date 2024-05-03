@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-pcm.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-pcm.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-pcm.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-pcm.d: \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-pcm.c \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-afe-common.h \
  ../../../../../middleware/MTK/audio_services/sound/utils/include/mtk_mutex.h \

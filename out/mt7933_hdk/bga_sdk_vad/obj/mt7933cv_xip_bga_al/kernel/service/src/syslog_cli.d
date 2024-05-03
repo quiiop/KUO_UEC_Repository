@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog_cli.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog_cli.d: ../../../../../kernel/service/src/syslog_cli.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog_cli.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/service/src/syslog_cli.d: ../../../../../kernel/service/src/syslog_cli.c \
  ../../../../../kernel/service/inc/syslog.h \
  ../../../../../driver/chip/inc/hal_uart.h \
  ../../../../../driver/chip/mt7933/inc/hal_platform.h \

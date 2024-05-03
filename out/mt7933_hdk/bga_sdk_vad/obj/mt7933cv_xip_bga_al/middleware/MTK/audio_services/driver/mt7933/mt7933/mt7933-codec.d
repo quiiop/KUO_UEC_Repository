@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-codec.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-codec.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-codec.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-codec.d: \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-codec.c \
  ../../../../../middleware/MTK/audio_services/sound/driver/include/soc.h \
  ../../../../../middleware/MTK/audio_services/sound/driver/include/core.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cyberon_test_cli.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cyberon_test_cli.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cyberon_test_cli.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cyberon_test_cli.d: \
  ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/cyberon_test_cli.c \
  ../inc/FreeRTOSConfig.h ../../../../../driver/chip/mt7933/inc/common.h \
  ../../../../../driver/chip/mt7933/inc/typedefs.h \

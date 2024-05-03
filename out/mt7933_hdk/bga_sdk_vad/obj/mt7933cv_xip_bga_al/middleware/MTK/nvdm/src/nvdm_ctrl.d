@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/nvdm/src/nvdm_ctrl.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/nvdm/src/nvdm_ctrl.d: ../../../../../middleware/MTK/nvdm/src/nvdm_ctrl.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/nvdm/src/nvdm_ctrl.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/nvdm/src/nvdm_ctrl.d: ../../../../../middleware/MTK/nvdm/src/nvdm_ctrl.c \
  ../../../../../middleware/MTK/nvdm/inc/nvdm.h \
  ../../../../../kernel/service/inc/syslog.h \
  ../../../../../driver/chip/inc/hal_uart.h \

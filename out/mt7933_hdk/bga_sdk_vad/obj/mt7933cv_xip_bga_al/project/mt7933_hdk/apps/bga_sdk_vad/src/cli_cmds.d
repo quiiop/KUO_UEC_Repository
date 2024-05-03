@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cli_cmds.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cli_cmds.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cli_cmds.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/project/mt7933_hdk/apps/bga_sdk_vad/src/cli_cmds.d: \
  ../../../../../project/mt7933_hdk/apps/bga_sdk_vad/src/cli_cmds.c \
  ../../../../../kernel/service/inc/toi.h \
  ../../../../../middleware/MTK/minicli/inc/minicli_cmd_table.h \

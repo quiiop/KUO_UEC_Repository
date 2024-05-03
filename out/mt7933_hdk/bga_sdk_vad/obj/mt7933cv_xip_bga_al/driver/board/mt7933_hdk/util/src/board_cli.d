@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/board_cli.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/board_cli.d: ../../../../../driver/board/mt7933_hdk/util/src/board_cli.c \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/board_cli.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/driver/board/mt7933_hdk/util/src/board_cli.d: ../../../../../driver/board/mt7933_hdk/util/src/board_cli.c \
  ../../../../../kernel/service/inc/toi.h \
  ../../../../../middleware/MTK/minicli/inc/cli.h \
  ../../../../../middleware/MTK/minicli/inc/putter.h \

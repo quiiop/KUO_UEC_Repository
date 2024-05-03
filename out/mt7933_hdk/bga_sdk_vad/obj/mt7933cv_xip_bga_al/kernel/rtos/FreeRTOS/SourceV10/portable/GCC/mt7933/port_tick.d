@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/mt7933/port_tick.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/mt7933/port_tick.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/mt7933/port_tick.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/kernel/rtos/FreeRTOS/SourceV10/portable/GCC/mt7933/port_tick.d: \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/portable/GCC/mt7933/port_tick.c \
  ../../../../../kernel/rtos/FreeRTOS/SourceV10/include/FreeRTOS.h \
  ../inc/FreeRTOSConfig.h ../../../../../driver/chip/mt7933/inc/common.h \

@@ -1,4 +1,4 @@
-/home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-utils.o /home/kuo/Desktop/MTK/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-utils.d: \
+/home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-utils.o /home/jameskuo/Desktop/KUO_UEC_Repository/out/mt7933_hdk/bga_sdk_vad/obj/mt7933cv_xip_bga_al/middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-utils.d: \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-utils.c \
  ../../../../../middleware/MTK/audio_services/driver/mt7933/mt7933/mt7933-adsp-utils.h \
  ../../../../../middleware/MTK/audio_services/audio_ipi/common/framework/audio_messenger_ipi.h \

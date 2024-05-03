@@ -159,9 +159,17 @@ typedef enum {
 #define N9LOG_TASK_PRIO                 TASK_PRIORITY_LOW
 
 /*[KUO] auto connect wifi*/
+// #define USE_AUTO_CONNECT_WIFI_TASK
+#define AUTO_CONNECT_WIFI
 #define auto_connect_wifi_TASK_NAME         "auto_connect_wifi"
 #define auto_connect_wifi_TASK_STACKSIZE    (8192)
 #define auto_connect_wifi_TASK_PRIO         TASK_PRIORITY_NORMAL
+
+/*[KUO] small task just test*/
+#define Just_small_test
+#define small_test_TASK_NAME                "just_small_test"
+#define small_test_TASK_STACKSIZE           (8192)
+#define small_test_TASK_PRIO                TASK_PRIORITY_NORMAL
 
 /* ATCI task definition */
 #define ATCI_TASK_NAME              "ATCI"
